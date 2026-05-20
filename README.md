@@ -15,9 +15,9 @@ A simple and interactive web application that dynamically changes the background
 ---
 
 ## 🛠️ Tech Stack
-* **HTML5** - Page structure
-* **CSS3** - Styling and layout
-* **JavaScript (ES6)** - Color generation logic and DOM manipulation
+* **HTML** - Page structure
+* **CSS** - Styling and layout
+* **JavaScript** - Color generation logic and DOM manipulation
 
 ---
 
