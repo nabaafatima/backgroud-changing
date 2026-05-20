@@ -1,0 +1,16 @@
+#change_color{
+    background-color:#ffffff;
+    height: 50px;
+    width: 100px;
+    
+}
+body{
+    background-color: bisque;
+    margin-top: 200px;
+    margin-left: 500px;
+}
+#colorText{
+     text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+     color:#fff;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
