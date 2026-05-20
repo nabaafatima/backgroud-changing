@@ -2,7 +2,7 @@
 
 A simple and interactive web application that dynamically changes the background color of the page with the click of a button.
 
-🔗 **[Live Demo]()**
+🔗 **[Live Demo](https://nabaafatima.github.io/backgroud-changing/)**
 
 ---
 
